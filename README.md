@@ -26,6 +26,7 @@ http://localhost:8000/releases/v1.html.
 | v5 | `releases/v5.html` | Volume key with a level per effect, sound on by default, birds only in clear weather and without echo, longer Cycle stages, Fireplace preset |
 | v6 | `releases/v6.html` | Renamed to Low Pressure; a complete standalone page with its own title, description and icon, ready to host |
 | v7 | `releases/v7.html` | Rounder moon and clouds: no more one-pixel points on top |
+| v8 | `releases/v8.html` | Time of day: a desk clock to set the hour, pause it, or match your device, with a day lasting an hour; sky, sun and moon, city and room follow it. Washing lines, a roof deck and rooftop steam replace the lantern lines; hover outlines on things you can touch; a new purr that settles by itself |
 
 Releases v1 to v5 carry the app's earlier name, Storm Window.
 
