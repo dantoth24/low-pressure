@@ -1,7 +1,8 @@
 # Storm Window
 
 A pixel-art desk by a rainy city window. The monitor on the desk mixes rain,
-wind and thunder, plays YouTube, or switches off.
+wind, thunder and birds, runs the weather on its own, plays YouTube, or
+switches off.
 
 ## Run it
 
@@ -21,6 +22,7 @@ http://localhost:8000/releases/v1.html.
 | v1 | `releases/v1.html` | The scene, weather controls and synthesised sound |
 | v2 | `releases/v2.html` | Video and power keys on the monitor, five video presets |
 | v3 | `releases/v3.html` | Deep rolling thunder; most strikes far enough that the flash leads the sound |
+| v4 | `releases/v4.html` | Birds slider, auto weather (Cycle and Natural), an off stop on each weather slider, raindrops as taps |
 
 To cut a release: copy `index.html` to `releases/vN.html`, add a row above,
 commit, and tag the commit `vN`.
