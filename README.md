@@ -25,6 +25,7 @@ http://localhost:8000/releases/v1.html.
 | v4 | `releases/v4.html` | Birds slider, auto weather (Cycle and Natural), an off stop on each weather slider, raindrops as taps |
 | v5 | `releases/v5.html` | Volume key with a level per effect, sound on by default, birds only in clear weather and without echo, longer Cycle stages, Fireplace preset |
 | v6 | `releases/v6.html` | Renamed to Low Pressure; a complete standalone page with its own title, description and icon, ready to host |
+| v7 | `releases/v7.html` | Rounder moon and clouds: no more one-pixel points on top |
 
 Releases v1 to v5 carry the app's earlier name, Storm Window.
 
