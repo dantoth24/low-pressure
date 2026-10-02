@@ -20,6 +20,7 @@ http://localhost:8000/releases/v1.html.
 |---|---|---|
 | v1 | `releases/v1.html` | The scene, weather controls and synthesised sound |
 | v2 | `releases/v2.html` | Video and power keys on the monitor, five video presets |
+| v3 | `releases/v3.html` | Deep rolling thunder; most strikes far enough that the flash leads the sound |
 
 To cut a release: copy `index.html` to `releases/vN.html`, add a row above,
 commit, and tag the commit `vN`.
