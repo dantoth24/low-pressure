@@ -23,6 +23,7 @@ http://localhost:8000/releases/v1.html.
 | v2 | `releases/v2.html` | Video and power keys on the monitor, five video presets |
 | v3 | `releases/v3.html` | Deep rolling thunder; most strikes far enough that the flash leads the sound |
 | v4 | `releases/v4.html` | Birds slider, auto weather (Cycle and Natural), an off stop on each weather slider, raindrops as taps |
+| v5 | `releases/v5.html` | Volume key with a level per effect, sound on by default, birds only in clear weather and without echo, longer Cycle stages, Fireplace preset |
 
 To cut a release: copy `index.html` to `releases/vN.html`, add a row above,
 commit, and tag the commit `vN`.
