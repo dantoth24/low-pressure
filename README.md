@@ -1,4 +1,4 @@
-# Storm Window
+# Low Pressure
 
 A pixel-art desk by a rainy city window. The monitor on the desk mixes rain,
 wind, thunder and birds, runs the weather on its own, plays YouTube, or
@@ -24,6 +24,9 @@ http://localhost:8000/releases/v1.html.
 | v3 | `releases/v3.html` | Deep rolling thunder; most strikes far enough that the flash leads the sound |
 | v4 | `releases/v4.html` | Birds slider, auto weather (Cycle and Natural), an off stop on each weather slider, raindrops as taps |
 | v5 | `releases/v5.html` | Volume key with a level per effect, sound on by default, birds only in clear weather and without echo, longer Cycle stages, Fireplace preset |
+| v6 | `releases/v6.html` | Renamed to Low Pressure; a complete standalone page with its own title, description and icon, ready to host |
+
+Releases v1 to v5 carry the app's earlier name, Storm Window.
 
 To cut a release: copy `index.html` to `releases/vN.html`, add a row above,
 commit, and tag the commit `vN`.
