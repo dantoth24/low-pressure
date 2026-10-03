@@ -28,6 +28,7 @@ http://localhost:8000/releases/v1.html.
 | v7 | `releases/v7.html` | Rounder moon and clouds: no more one-pixel points on top |
 | v8 | `releases/v8.html` | Time of day: a desk clock to set the hour, pause it, or match your device, with a day lasting an hour; sky, sun and moon, city and room follow it. Washing lines, a roof deck and rooftop steam replace the lantern lines; hover outlines on things you can touch; a new purr that settles by itself |
 | v9 | `releases/v9.html` | Keeps the screen awake while the page is showing; birds leave the Weather screen and come and go with the day and weather on their own |
+| v10 | `releases/v10.html` | The sun and moon stay at full brightness and sit behind the clouds, covered only where cloud passes in front, with a faint glow coming through |
 
 Releases v1 to v5 carry the app's earlier name, Storm Window.
 
